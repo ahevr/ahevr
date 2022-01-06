@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">The Ahevr Developer Crew🌟.</h3>
 
+
 <br>
 
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=ahevr&label=Profile%20views&color=0e75b6&style=flat"
@@ -9,12 +10,12 @@
 
 <br>
 
-<img align="right" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/5387dc7e035b3efe9d94516044de66a4.gif" class="width:50%;" alt="ahevr" />
 
 
+<img align="right" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" class="width:50;" alt="ahevr" />
 
-
-
+- 
+ 
 - 👀 I’m interested in PHP
 
 - 🌱 I’m currently learning LARAVEL
@@ -35,6 +36,7 @@
 ![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahmethusreversen&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)
 
 ---
+
 
 <br>
 
