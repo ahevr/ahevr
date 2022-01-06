@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ahevr
 - 👀 I’m interested in PHP
 - 🌱 I’m currently learning LARAVEL
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me aheworks.com
 
 <!---
