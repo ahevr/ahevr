@@ -9,9 +9,9 @@
 
 <br>
 
-<!-- <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="ahevr" /></p> -->
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="ahevr" /></p>
 
-<p><img align="right" src="https://camo.githubusercontent.com/51a10e15894d7c134086088ac01f21e900819a982a44bae09b6ee5276e948ad2/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f323034382f312a4f6f687157354447683943515334684c593546587a412e706e67" alt="ahevr" /></p>
+
 
 
 - 👀 I’m interested in PHP
@@ -29,7 +29,7 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/ahmethusreversen)
+![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahmethusreversen&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)
 
 ---
 
