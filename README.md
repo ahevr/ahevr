@@ -22,6 +22,15 @@
 
 - 👉 https://www.instagram.com/ahevr
 
+
+
+
+### Spotify Playing 🎧
+
+[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/ahmethusreversen)
+
+---
+
 <br>
 
 <h3 align="left">Connect with me:</h3>
