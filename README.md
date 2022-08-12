@@ -10,7 +10,7 @@
 
 
 
-<img align="right" src="https://cdn.dribbble.com/users/4382412/screenshots/15633275/media/085a014ebebde73e5cd510c93941f49a.gif" class="width:50;" alt="ahevr" />
+<img align="right" src="https://loottr.com/app/data/master/img/logo/logo.png" class="width:50;" alt="ahevr" />
 
 - 
  
