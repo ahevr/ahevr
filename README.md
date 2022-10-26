@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
-<h3 align="center">The Ahevr Developer Crew🌟.</h3>
 
 
 
