@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 <h3 align="center">The Ahevr Developer Crew🌟.</h3>
 
-<img align="right" src="https://loottr.com/app/data/master/img/logo/logo.png" class="width:50;" alt="ahevr" />
+
 
 - 
  
