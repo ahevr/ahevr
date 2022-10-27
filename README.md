@@ -6,8 +6,6 @@
  
 - 👀 I’m interested in PHP
 
-- 🌱 I’m currently learning LARAVEL
-
 - 📫 How to reach me aheworks.com
 
 - 👉 https://aheworks.com
