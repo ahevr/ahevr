@@ -1,13 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ahmet</h1>
 
 
-
-- 
- 
-- 👀 I’m interested in PHP
-
-- 📫 How to reach me aheworks.com
-
 - 👉 https://aheworks.com
 
 - 👉 https://www.instagram.com/ahevr
