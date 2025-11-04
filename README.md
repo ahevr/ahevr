@@ -25,6 +25,20 @@
 
 ---
 
+### 🛠️ Hobby Projects
+
+#### 🏍️ [MotoBike App](https://motobikeapp.pages.dev)
+> A MotoGP analytics & rider tracker app — built for enthusiasts who love data as much as racing.  
+> **Tech:** React • MotoGP API • TailwindCSS  • Laravel • CloudPages • CloudFlareR2 • Railway
+> 🏁 Rider stats, track analysis, upcoming race schedules, and favorite rider notifications.
+
+#### 💳 [AboneTakipMobilApp for IOS]()
+> A subscription tracker that helps users manage recurring payments with reminders and insights.  
+> **Tech:** Laravel • React Native • MySQL  
+> 🔔 Push notifications, smart categorization, and renewal analytics.
+
+---
+
 ### ☕ Let's Connect
 
 <p align="center">
