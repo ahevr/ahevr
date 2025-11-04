@@ -1,13 +1,8 @@
 <h1 align="center">👋 Hi, I'm Ahmet</h1>
 <h3 align="center">Full-Stack Developer • Product Builder • Tech Enthusiast</h3>
 
-<p align="center">
-  <a href="https://aheworks.com" target="_blank">🌐 aheworks.com</a> • 
-  <a href="https://www.linkedin.com/in/aheworks" target="_blank">LinkedIn</a> • 
-  <a href="https://www.instagram.com/ahevr" target="_blank">Instagram</a> • 
-  <a href="https://www.youtube.com/c/AheVr" target="_blank">YouTube</a> • 
-  <a href="https://twitter.com/ahezzers" target="_blank">Twitter</a> • 
-  <a href="https://www.behance.net/ahmethusrev035" target="_blank">Behance</a>
+<p align="center"
+  <a href="https://www.linkedin.com/in/ahmethusreversen" target="_blank">LinkedIn</a> • 
 </p>
 
 ---
@@ -47,8 +42,8 @@
 ### ☕ Let's Connect
 
 <p align="center">
-  <a href="mailto:ahmethusrev035@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/aheworks"><img src="https://img.shields.io/badge/LinkedIn-Ahmet%20Erşen-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="mailto:ahmethusreversen@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/ahmethusreversen"><img src="https://img.shields.io/badge/LinkedIn-Ahmet%20Erşen-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
 ---
