@@ -8,7 +8,6 @@
 - 🧩 Building SaaS & marketplace systems (real-time, scalable, API-driven)  
 - 🚀 Passionate about backend architecture, clean UI, and product design  
 - ⚡ Love working with real-time systems (Socket.IO, Redis, Laravel Echo)  
-- 🏍️ Motorcycle & motorsport enthusiast — building MotoGP analytics tools  
 
 ---
 
