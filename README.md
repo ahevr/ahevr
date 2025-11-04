@@ -3,21 +3,6 @@
 
 - 👉 https://aheworks.com
 
-
-
-
-
-
-
-### Spotify Playing 🎧
-
-![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ahmethusreversen&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)
-
----
-
-
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/aheworks" target="blank"><img align="center"
