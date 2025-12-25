@@ -32,9 +32,14 @@
 > 🔔 Push notifications, smart categorization, and renewal analytics.
 
 #### 🎮 [GameLogDD](https://gamelogdd.com)
-> A comprehensive game database & review platform — discover, track, and review your favorite games with a vibrant gaming community.  
-> **Tech:** Laravel • IGDB API • Livewire • TailwindCSS • MySQL • Railway  
-> 🎯 Game discovery, user reviews & ratings, dynamic filtering, personalized recommendations, and SEO-optimized game pages.
+> A modern game discovery & review platform — explore 200K+ games with rich metadata from IGDB API.  
+> **Tech Stack:**
+> - **Backend:** Laravel 10 • PHP 8.1+ • MySQL • Redis (Predis)
+> - **Frontend:** Livewire 3 • Inertia.js • Vue 3 • AlpineJS • TailwindCSS • Lucide Icons
+> - **APIs & Auth:** IGDB API • Laravel Sanctum • Socialite (Steam OAuth)
+> - **SEO & Tools:** Spatie Sitemap • JSON-LD Schema • Ziggy Routes
+> - **Infrastructure:** Cloudflare CDN • Vite  
+> 🎯 Real-time search & filtering, Steam authentication, user review system with aggregate ratings, game collections & favorites, SEO-optimized pages with structured data, performance caching, and responsive dark mode.
 
 ---
 
