@@ -22,24 +22,32 @@
 ### 🛠️ Hobby Projects
 
 #### 🏍️ [MotoBike App](https://motobikeapp.pages.dev)
-> A MotoGP analytics & rider tracker app — built for enthusiasts who love data as much as racing.  
-> **Tech:** React • MotoGP API • TailwindCSS  • Laravel • CloudPages • CloudFlareR2 • Railway
-> 🏁 Rider stats, track analysis, upcoming race schedules, and favorite rider notifications.
+> A comprehensive MotoGP analytics & rider tracker platform — built for racing enthusiasts who love data-driven insights.  
+> **Tech Stack:**
+> - **Backend:** Laravel • PHP • MySQL
+> - **Frontend:** React • TailwindCSS • Responsive Design
+> - **APIs & Services:** MotoGP API • Real-time Data Integration
+> - **Infrastructure:** Cloudflare Pages • Cloudflare R2 Storage • Railway  
+> 🏁 Detailed rider statistics, circuit & track analysis, upcoming race schedules with countdown timers, live race updates, favorite rider notifications, historical performance data, and mobile-optimized interface.
 
-#### 💳 [AboneTakipMobilApp for IOS](https://apps.apple.com/tr/app/sosyal-b%C3%BCt%C3%A7em/id6754847463)
-> A subscription tracker that helps users manage recurring payments with reminders and insights.  
-> **Tech:** Laravel • React Native • MySQL  
-> 🔔 Push notifications, smart categorization, and renewal analytics.
+#### 💳 [AboneTakipMobilApp for iOS](https://apps.apple.com/tr/app/sosyal-b%C3%BCt%C3%A7em/id6754847463)
+> A smart subscription management platform — track recurring payments with intelligent reminders and financial insights.  
+> **Tech Stack:**
+> - **Backend:** Laravel • PHP • MySQL • RESTful API
+> - **Mobile:** React Native • iOS Native Features
+> - **Features:** Push Notifications • Background Services
+> - **Infrastructure:** Cloud Hosting • Secure API Authentication  
+> 🔔 Push notification reminders, smart categorization by service type, renewal analytics & spending insights, multi-currency support, bill tracking & forecasting, subscription calendar, and expense reports with charts.
 
 #### 🎮 [GameLogDD](https://gamelogdd.com)
-> A modern game discovery & review platform — explore 200K+ games with rich metadata from IGDB API.  
+> A comprehensive game database & review platform — discover, track, and review games with rich metadata from IGDB API.  
 > **Tech Stack:**
 > - **Backend:** Laravel 10 • PHP 8.1+ • MySQL • Redis (Predis)
 > - **Frontend:** Livewire 3 • Inertia.js • Vue 3 • AlpineJS • TailwindCSS • Lucide Icons
 > - **APIs & Auth:** IGDB API • Laravel Sanctum • Socialite (Steam OAuth)
 > - **SEO & Tools:** Spatie Sitemap • JSON-LD Schema • Ziggy Routes
-> - **Infrastructure:** Cloudflare CDN • Vite  
-> 🎯 Real-time search & filtering, Steam authentication, user review system with aggregate ratings, game collections & favorites, SEO-optimized pages with structured data, performance caching, and responsive dark mode.
+> - **Infrastructure:** Railway • Cloudflare CDN • Vite  
+> 🎯 200K+ games database, real-time search & filtering, Steam authentication, user review system with aggregate ratings, game collections & favorites, SEO-optimized pages with structured data, automated sitemap generation, performance caching with Redis, and responsive dark mode design.
 
 ---
 
