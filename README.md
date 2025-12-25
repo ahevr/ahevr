@@ -26,10 +26,15 @@
 > **Tech:** React • MotoGP API • TailwindCSS  • Laravel • CloudPages • CloudFlareR2 • Railway
 > 🏁 Rider stats, track analysis, upcoming race schedules, and favorite rider notifications.
 
-#### 💳 [AboneTakipMobilApp for IOS]()
+#### 💳 [AboneTakipMobilApp for IOS](https://apps.apple.com/tr/app/sosyal-b%C3%BCt%C3%A7em/id6754847463)
 > A subscription tracker that helps users manage recurring payments with reminders and insights.  
 > **Tech:** Laravel • React Native • MySQL  
 > 🔔 Push notifications, smart categorization, and renewal analytics.
+
+#### 🎮 [GameLogDD](https://gamelogdd.com)
+> A comprehensive game database & review platform — discover, track, and review your favorite games with a vibrant gaming community.  
+> **Tech:** Laravel • IGDB API • Livewire • TailwindCSS • MySQL • Railway  
+> 🎯 Game discovery, user reviews & ratings, dynamic filtering, personalized recommendations, and SEO-optimized game pages.
 
 ---
 
